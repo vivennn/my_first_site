@@ -12,4 +12,6 @@ button:hover { background: #fafafa; }
   :root { --max: 92vw; }
   nav a { display: inline-block; margin: 8px 8px 0 0; }
 }
-
+html {
+scroll-behavior: smooth;
+}
